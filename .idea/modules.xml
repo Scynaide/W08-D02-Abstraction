@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/labs/02-Java-oop_concepts-books/02-Java-oop_concepts-books.iml" filepath="$PROJECT_DIR$/labs/02-Java-oop_concepts-books/02-Java-oop_concepts-books.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/W08-D02-Abstraction.iml" filepath="$PROJECT_DIR$/.idea/W08-D02-Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstraction/abstraction.iml" filepath="$PROJECT_DIR$/abstraction/abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/03-Java-oop_in_practice-abs_class_and_interface/src/main/main.iml" filepath="$PROJECT_DIR$/labs/03-Java-oop_in_practice-abs_class_and_interface/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/03-Java-oop_in_practice-abs_class_and_interface/src/test/test.iml" filepath="$PROJECT_DIR$/labs/03-Java-oop_in_practice-abs_class_and_interface/src/test/test.iml" />
+    </modules>
+  </component>
+</project>
